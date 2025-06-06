@@ -10,7 +10,7 @@ A simple and responsive weather application built with **HTML**, **CSS**, and **
 - 🌡️ Displays temperature, humidity, wind speed, and weather conditions
 - 🌇 Shows relevant weather icons
 - 📱 Responsive design for mobile and desktop
-- 🔁 Real-time data fetched from OpenWeatherMap API (or your chosen API)
+- 🔁 Real-time data fetched from OpenWeatherMap API 
 
 ---
 
@@ -20,6 +20,8 @@ A simple and responsive weather application built with **HTML**, **CSS**, and **
 - **CSS3** – Styling and responsive design
 - **JavaScript (ES6)** – API integration and dynamic content rendering
 - **openWeather** – Weather data source
+- **Font-Awesome** – for icons usuage
+- **Google-Fonts**-for icons and fonts
 
 ---
 
