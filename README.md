@@ -19,7 +19,7 @@ A simple and responsive weather application built with **HTML**, **CSS**, and **
 - **HTML5** – Page structure and layout
 - **CSS3** – Styling and responsive design
 - **JavaScript (ES6)** – API integration and dynamic content rendering
-- **Weather by API-Ninjas** – Weather data source
+- **openWeather** – Weather data source
 
 ---
 
