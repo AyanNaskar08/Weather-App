@@ -44,7 +44,7 @@ async function getFetchData(endPoint, city){
    return response.json()
 }
 
-
+//open weather weather icons code
 function getWeatherIcon( id ){
     if(id <= 232) return 'thunderstorm.svg'
     if(id <= 321) return 'drizzle.svg'
