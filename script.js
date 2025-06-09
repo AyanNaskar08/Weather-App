@@ -16,7 +16,7 @@ const currentDateTxt =document.querySelector('.forecast-items-container')
 const forecastItemContainer=document.querySelector('.current-date-txt')
 
 
-const apikey = '77f49ec8f6cca0e3614549743dd38cd0'
+const apikey = '77f49ec8f6cca0e3614549743dd38cd0' //here write your own apikey from open weather
 
 searchBtn.addEventListener('click', () =>{
     if(cityInput. value .trim() != ''){
