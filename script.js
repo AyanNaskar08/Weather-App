@@ -144,7 +144,7 @@ function updateForecastItems(weatherData){
         main: {temp}
     } =weatherData
 
-    const dateTaken=new Date(date)
+   const dateTaken=new Date(date)
     const dateoption={
         day:'2-digit',
         month:'short'
@@ -160,7 +160,6 @@ function updateForecastItems(weatherData){
     forecastItemContainer.insertAdjacentHTML('beforeend',forecastItem)
 
 }
-
 function showDisplaySection(section){
     [wheatherInfoSection, searchCitySection, notFoundSection]
       .forEach(section => section.style.display ='none') // Corrected Style to style
