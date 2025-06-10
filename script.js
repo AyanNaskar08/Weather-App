@@ -167,7 +167,6 @@ function showDisplaySection(section){
 
       section.style.display = 'flex' // Corrected Style to style
 }
-
       
       
           
